@@ -33,3 +33,7 @@ Actividades:
 - [ ] Crear un modelo Usuario (o user) crear N properties por cada N integrante del equipo.
 
 - [ ] Integrar los cambios en el repositorio.
+
+
+### Contributors
+[![](https://github.com/yulia-dasilva.png?size=50)](https://github.com/yulia-dasilva/crud-django)
